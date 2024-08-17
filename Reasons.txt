@@ -1,0 +1,2 @@
+-The budget of a movie should not be considered, as liking one high-budget movie doesn't necessarily mean we will like another.
+-Homepage doesn't matter so we drop it
